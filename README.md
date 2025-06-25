@@ -13,7 +13,7 @@
 
 ## 🌐 About Me
 
-**Middle-level Backend Developer**
+**Python Backend Developer**
 
 ### 🚀 Tech Stack
 - FastAPI
