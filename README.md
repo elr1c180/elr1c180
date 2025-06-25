@@ -3,7 +3,7 @@
 </p>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=elr1c180&show_icons=true&locale=en&layout=compact&theme=chartreuse-white"
-       alt="Top languages"  width="400"/>
+       alt="Top languages" />
   <img src="https://leetcard.jacoblin.cool/elr1c180"
-       alt="LeetCode card"  width="400"/>
+       alt="LeetCode card"/>
 </p>
