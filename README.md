@@ -18,10 +18,11 @@
 ### 🚀 Tech Stack
 - FastAPI
 - Django
-- aiogram
+- Aiogram3
 - Redis
 - Celery
 - PostgreSQL
+- Docker
 
 ### 🔒 Projects
 - Creator & maintainer of my own VPN service  
