@@ -25,7 +25,7 @@
 
 ### 🔒 Projects
 - Creator & maintainer of my own VPN service  
-- Chrome extension for fast VPN access – [Get it on Chrome Web Store](YOUR_EXTENSION_LINK_HERE)
+- Chrome extension for fast VPN access – [Get it on Chrome Web Store](https://chromewebstore.google.com/detail/elr1c-vpn/nnncedoelhjgciekhenckajinpnlkdgd)
 
 ### 🤝 Collaborations
 - Worked with **Lamoda** on internal tooling & integrations  
@@ -33,3 +33,4 @@
 
 ### 📫 Contact
 - Telegram: [@elr1c180](https://t.me/elr1c180)
+- Email: [elr1c.edw180@gmail.com](mailto:elr1c.edw180@gmail.com)
