@@ -1,11 +1,3 @@
-# Привет, я elr1c180 👋
-
-## 💻 Backend / DevOps / VPN-инженер
-
-- 🔐 Создал VPN-сервис с 3000+ пользователей  
-- ⚙️ Работаю с Django, WebSockets, серверной частью  
-- 🧠 Постоянно учусь и качаюсь — как в коде, так и в жизни
-
-### 📫 Как связаться:
-- Telegram: [@твойник](https://t.me/твойник)
-- Email: example@mail.com
+<h1 align="center">Hi there, I'm <a href="https://daniilshat.ru/" target="_blank">Anton</a> 
+<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+<h3 align="center">Computer science student, IT news writer from Russia 🇷🇺</h3>
