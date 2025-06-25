@@ -1,9 +1,35 @@
 <p align="center">
-  <img src="https://github.com/elr1c180/elr1c180/blob/main/header.png?raw=true" alt="Баннер" />
+  <img src="https://github.com/elr1c180/elr1c180/blob/main/header.png?raw=true" alt="Banner" />
 </p>
-<p align="">
+
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=elr1c180&show_icons=true&locale=en&layout=compact&theme=chartreuse-white"
        alt="Top languages" />
   <img src="https://leetcard.jacoblin.cool/elr1c180"
        alt="LeetCode card" width="410"/>
 </p>
+
+---
+
+## 🌐 About Me
+
+**Middle-level Backend Developer**
+
+### 🚀 Tech Stack
+- FastAPI
+- Django
+- aiogram
+- Redis
+- Celery
+- PostgreSQL
+
+### 🔒 Projects
+- Creator & maintainer of my own VPN service  
+- Chrome extension for fast VPN access – [Get it on Chrome Web Store](YOUR_EXTENSION_LINK_HERE)
+
+### 🤝 Collaborations
+- Worked with **Lamoda** on internal tooling & integrations  
+- Developed custom solutions in partnership with the **Russian Red Cross**
+
+### 📫 Contact
+- Telegram: [@elr1c180](https://t.me/elr1c180)
